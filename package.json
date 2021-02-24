@@ -1,0 +1,21 @@
+{
+  "name": "etzwhatsappconnect",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "whatsapp biz connect",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "etz",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.11.17",
+    "node-fetch": "^2.6.1",
+    "passport": "^0.4.1"
+  }
+}
